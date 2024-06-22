@@ -46,12 +46,3 @@ Além disso, a plataforma também serve como uma referência confiável para a d
 >**Auditoria**: A tabela Auditoria registra todas as operações de inserção, atualização e exclusão realizadas nas tabelas principais para garantir a rastreabilidade e segurança dos dados.
 
 **Dicionário de Dados**
-
-
-<p align="center">
-  <object data="https://github.com/seu-usuario/seu-repositorio/raw/main/3_6_Dicionario_de_Dados_HepatoHub_22_06_2024.pdf" type="application/pdf" width="1000px" height="600px">
-    <embed src="https://github.com/seu-usuario/seu-repositorio/raw/main/3_6_Dicionario_de_Dados_HepatoHub_22_06_2024.pdf">
-      <p>Este navegador não suporta visualização de PDF. Você pode <a href="https://github.com/seu-usuario/seu-repositorio/raw/main/3_6_Dicionario_de_Dados_HepatoHub_22_06_2024.pdf">baixar o PDF</a> diretamente.</p>
-    </embed>
-  </object>
-</p>
