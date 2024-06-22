@@ -1,11 +1,11 @@
-# Projeto HepatoHub
+# 1.Projeto HepatoHub
 
 ### Descrição do Projeto
 Esse projeto utiliza dados públicos do Ministério da Saúde sobre medicamentos específicos para o tratamento de doenças hepáticas. A plataforma, atualmente em desenvolvimento, permite que os usuários pesquisem por doenças hepáticas específicas ou por medicamentos, fornecendo informações básicas sobre os medicamentos disponíveis, localização e regras de aquisição, dentre outras informações relevantes.
 
 Além disso, a plataforma também serve como uma referência confiável para a divulgação de artigos e outros conteúdos relevantes na área da saúde hepática.
 
-# Banco de Dados hepatohub_bd
+# 2.Banco de Dados hepatohub_bd
 
 Um banco de dados bem-estruturado é fundamental para organizar e armazenar informações de forma eficiente, garantindo acesso rápido, confiabilidade e integridade dos dados. Ele proporciona uma base sólida para aplicações e sistemas, facilitando a recuperação precisa de informações, a análise de dados e a geração de relatórios. Além disso, um banco de dados bem projetado ajuda na redução de redundâncias e inconsistências, melhorando a qualidade dos dados e facilitando a manutenção ao longo do tempo. Isso resulta em sistemas mais robustos, escaláveis e menos propensos a erros, promovendo a eficiência operacional e a tomada de decisões baseadas em dados confiáveis. Diante deste contexto, neste trabalho tomamos o cuidado para contemplar todas as exigência para obtermos um Banco de Dados de qualidade.
 
@@ -55,6 +55,12 @@ Em resumo, o Diagrama EER é essencial para a modelagem de dados eficiente e pre
   <img src="Imagens/3_1_Modelagem_Fisica_EER_HepatoHub-1.png" alt="Modelagem Física">
 </p>
 
+## Dicionário de Dados
+
+Um Dicionário de Dados é fundamental na gestão e desenvolvimento de sistemas de informação, pois ele atua como um guia completo e estruturado que define todos os elementos de dados utilizados no contexto de um projeto. A importância reside em sua capacidade de oferecer uma fonte única de verdade sobre a estrutura, definição, significado e relacionamentos dos dados dentro de um sistema. Isso facilita a comunicação entre os membros da equipe técnica e os stakeholders, assegura a consistência e precisão dos dados ao longo do ciclo de vida do sistema, e contribui para a manutenção, evolução e documentação eficazes do sistema de informação.
+
+Para acessar o Dicionário de Dados completo, [clique aqui](Documentos/Dicionario_de_Dados_HepatoHub_22_06_2024.pdf).
+
 
 ## Banco de Dados implementado
 A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando o MySQL WorkBench.
@@ -64,8 +70,4 @@ A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando
 </p>
 
 
-## Dicionário de Dados
 
-Um Dicionário de Dados é fundamental na gestão e desenvolvimento de sistemas de informação, pois ele atua como um guia completo e estruturado que define todos os elementos de dados utilizados no contexto de um projeto. A importância reside em sua capacidade de oferecer uma fonte única de verdade sobre a estrutura, definição, significado e relacionamentos dos dados dentro de um sistema. Isso facilita a comunicação entre os membros da equipe técnica e os stakeholders, assegura a consistência e precisão dos dados ao longo do ciclo de vida do sistema, e contribui para a manutenção, evolução e documentação eficazes do sistema de informação.
-
-Para acessar o Dicionário de Dados completo, [clique aqui](Documentos/Dicionario_de_Dados_HepatoHub_22_06_2024.pdf).
