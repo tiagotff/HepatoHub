@@ -45,11 +45,6 @@ Além disso, a plataforma também serve como uma referência confiável para a d
 >
 >**Auditoria**: A tabela Auditoria registra todas as operações de inserção, atualização e exclusão realizadas nas tabelas principais para garantir a rastreabilidade e segurança dos dados.
 
-**Diagrama EER**
-<p align="center">
-  <img src="image.png" alt="HepatoHub Logo">
-</p>
-
 **Dicionário de Dados**
 
 
