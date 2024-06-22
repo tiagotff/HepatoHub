@@ -6,6 +6,12 @@ Esse projeto utiliza dados públicos do Ministério da Saúde sobre medicamentos
 Além disso, a plataforma também serve como uma referência confiável para a divulgação de artigos e outros conteúdos relevantes na área da saúde hepática.
 
 ### Modelagem Conceitual
+<p align="center">
+  <object data="https://github.com/tiagotff/HepatoHub/blob/main/1_Modelagem_Conceitual_HepatoHub.pdf" type="application/pdf" width="1000px" height="600px">
+    <embed src="https://github.com/tiagotff/HepatoHub/blob/main/1_Modelagem_Conceitual_HepatoHub.pdf">
+    </embed>
+  </object>
+</p>
 
 
 ### Normalização e Modelagem Lógica
