@@ -7,7 +7,7 @@ Além disso, a plataforma também serve como uma referência confiável para a d
 
 ### Modelagem Conceitual
 <p align="center">
-  <img src="[caminho/para/sua/imagem.png](https://github.com/tiagotff/HepatoHub/blob/main/Imagens/1_Modelagem_Conceitual_HepatoHub-1.png)" alt="Modelagem Conceitual">
+  <img src="https://github.com/tiagotff/HepatoHub/blob/main/Imagens/1_Modelagem_Conceitual_HepatoHub-1.png" alt="Modelagem Conceitual">
 </p>
 
 
