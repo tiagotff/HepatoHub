@@ -40,7 +40,7 @@ Modelagem Lógica: Refere-se à representação estruturada e detalhada de um ba
 A modelagem física em bancos de dados é o processo de traduzir o modelo lógico de dados em estruturas físicas específicas dentro de um Sistema de Gerenciamento de Banco de Dados (SGBD). Isso inclui a definição de tabelas, índices, chaves primárias e estrangeiras, restrições de integridade, tipos de dados detalhados e otimizações de desempenho. O objetivo da modelagem física é garantir que o banco de dados seja eficiente, seguro e capaz de atender aos requisitos de armazenamento e recuperação de dados da aplicação de forma adequada.
 Nesse contexto, um dos diagrmas mais relevantes é o Diagrama EER (Diagrama Entidade-Relacionamento Estendido).
 
-**Importância do Diagrama EER**
+### Importância do Diagrama EER
 
 O Diagrama EER é crucial no desenvolvimento de bancos de dados porque, dentre outros aspectos relevantes:
 
@@ -65,28 +65,6 @@ A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando
 <p align="center">
   <img src="Imagens/3_5_Modelagem_Fisica_Banco_de_Dados_Implementado-1.png" alt="Banco de Dados implementado">
 </p>
-
-**Tabelas**
->
->**Medicamento**: Armazena informações sobre os medicamentos.
->
->**Programa**: Contém dados sobre os programas de saúde relacionados aos medicamentos.
->
->**Programa_Medicamento**: Tabém que representa o relacionamento N:N das tabelas Medicamento e Programa.
->
->**Estoque**: Registra as informações de estoque dos medicamentos.
->
->**Uf**: Armazena dados sobre unidades federativas.
->
->**Municipio**: Armazena dados sobre as cidades.
->
->**Endereco**: Guarda informações sobre endereços.
->
->**Usuario**: Contém dados dos usuários da plataforma.
->
->**Estabelecimento_Farmaceutico**: Armazena informações sobre os estabelecimentos farmacêuticos.
->
->**Auditoria**: A tabela Auditoria registra todas as operações de inserção, atualização e exclusão realizadas nas tabelas principais para garantir a rastreabilidade e segurança dos dados.
 
 
 **Dicionário de Dados**
