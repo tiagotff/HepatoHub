@@ -45,11 +45,8 @@ Nesse contexto, um dos diagrmas mais relevantes é o Diagrama EER (Diagrama Enti
 O Diagrama EER é crucial no desenvolvimento de bancos de dados porque, dentre outros aspectos relevantes:
 
 **Visualização Clara**: Facilita a compreensão das estruturas de dados e das relações complexas entre entidades.
-
 **Projeto Eficiente**: Ajuda os designers a identificar requisitos de dados, estabelecer restrições de integridade e definir as estruturas físicas do banco de dados.
-
 **Comunicação**: Serve como uma ferramenta de comunicação entre os stakeholders, incluindo desenvolvedores, analistas e clientes, para garantir que todos tenham uma compreensão compartilhada do modelo de dados.
-
 **Base para Implementação**: Fornece a base para a criação física do banco de dados usando um Sistema de Gerenciamento de Banco de Dados (SGBD), como MySQL, PostgreSQL ou Oracle.
 
 Em resumo, o Diagrama EER é essencial para a modelagem de dados eficiente e precisa, permitindo aos desenvolvedores criar bancos de dados que atendam às necessidades específicas de uma aplicação ou sistema.
