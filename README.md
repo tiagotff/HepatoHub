@@ -9,7 +9,7 @@ Além disso, a plataforma também serve como uma referência confiável para a d
 
 Um banco de dados bem-estruturado é fundamental para organizar e armazenar informações de forma eficiente, garantindo acesso rápido, confiabilidade e integridade dos dados. Ele proporciona uma base sólida para aplicações e sistemas, facilitando a recuperação precisa de informações, a análise de dados e a geração de relatórios. Além disso, um banco de dados bem projetado ajuda na redução de redundâncias e inconsistências, melhorando a qualidade dos dados e facilitando a manutenção ao longo do tempo. Isso resulta em sistemas mais robustos, escaláveis e menos propensos a erros, promovendo a eficiência operacional e a tomada de decisões baseadas em dados confiáveis. Diante deste contexto, neste trabalho tomamos o cuidado para contemplar todas as exigência para obtermos um Banco de Dados de qualidade.
 
-### Modelagem Conceitual
+## Modelagem Conceitual
 
 Na modelagem conceitual de banco de dados, o foco está na representação abstrata das entidades, seus atributos e relacionamentos sem detalhes de implementação. Essa fase permite capturar a estrutura essencial do banco de dados, garantindo uma compreensão clara das entidades envolvidas e como estão inter-relacionadas, o  que é essencial para o projeto de um banco de dados eficiente, bem estruturados e representativo.
 
@@ -18,7 +18,7 @@ Na modelagem conceitual de banco de dados, o foco está na representação abstr
 </p>
 
 
-### Normalização e Modelagem Lógica
+## Normalização e Modelagem Lógica
 
 Uma normalização minimamente recomendada é a 3ª Forma Normal. Vejamos as condições para atendimento da 1ª, 2ª e 3ª Forma Normal:
 ª Forma Normal (1FN): É uma condição na qual os dados de uma tabela de banco de dados estão organizados em colunas com tipos de dados definidos, e cada coluna contém apenas valores atômicos (indivisíveis). Isso significa que não deve haver conjuntos repetitivos de valores ou estruturas complexas em uma única coluna.
@@ -35,7 +35,7 @@ Modelagem Lógica: Refere-se à representação estruturada e detalhada de um ba
 </p>
 
 
-### Modelagem Física
+## Modelagem Física
 
 A modelagem física em bancos de dados é o processo de traduzir o modelo lógico de dados em estruturas físicas específicas dentro de um Sistema de Gerenciamento de Banco de Dados (SGBD). Isso inclui a definição de tabelas, índices, chaves primárias e estrangeiras, restrições de integridade, tipos de dados detalhados e otimizações de desempenho. O objetivo da modelagem física é garantir que o banco de dados seja eficiente, seguro e capaz de atender aos requisitos de armazenamento e recuperação de dados da aplicação de forma adequada.
 Nesse contexto, um dos diagrmas mais relevantes é o Diagrama EER (Diagrama Entidade-Relacionamento Estendido).
@@ -59,7 +59,7 @@ Em resumo, o Diagrama EER é essencial para a modelagem de dados eficiente e pre
 </p>
 
 
-**Banco de Dados implementado**
+## Banco de Dados implementado
 A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando o MySQL WorkBench.
 
 <p align="center">
@@ -67,7 +67,7 @@ A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando
 </p>
 
 
-**Dicionário de Dados**
+## Dicionário de Dados
 
 Um Dicionário de Dados é fundamental na gestão e desenvolvimento de sistemas de informação, pois ele atua como um guia completo e estruturado que define todos os elementos de dados utilizados no contexto de um projeto. A importância reside em sua capacidade de oferecer uma fonte única de verdade sobre a estrutura, definição, significado e relacionamentos dos dados dentro de um sistema. Isso facilita a comunicação entre os membros da equipe técnica e os stakeholders, assegura a consistência e precisão dos dados ao longo do ciclo de vida do sistema, e contribui para a manutenção, evolução e documentação eficazes do sistema de informação.
 
