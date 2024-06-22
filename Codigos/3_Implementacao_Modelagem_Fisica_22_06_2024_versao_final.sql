@@ -540,28 +540,6 @@ SELECT * FROM Auditoria;
 
 
 
--- Como está agora ?
-SELECT * FROM endereco;
-SELECT * FROM medicamento;
-SELECT * FROM usuario;
 
--- *********************************************************************************
--- *********************************************************************************
--- Criação de Usuários e Testes
 
--- Criar usuários de teste
-CREATE USER 'user1'@'localhost' IDENTIFIED BY 'password1';
-CREATE USER 'user2'@'localhost' IDENTIFIED BY 'password2';
 
--- Conceder permissões necessárias
-GRANT ALL PRIVILEGES ON hepatohub_bd.* TO 'user1'@'localhost';
-GRANT ALL PRIVILEGES ON hepatohub_bd.* TO 'user2'@'localhost';
-
--- Logar como user1 e executar operações de teste
--- (Logue no MySQL como user1 e execute as operações)
-
--- Logar como user2 e executar operações de teste
--- (Logue no MySQL como user2 e execute as operações)
-
--- *********************************************************************************
--- *********************************************************************************
