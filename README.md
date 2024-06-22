@@ -40,7 +40,7 @@ Modelagem Lógica: Refere-se à representação estruturada e detalhada de um ba
 A modelagem física em bancos de dados é o processo de traduzir o modelo lógico de dados em estruturas físicas específicas dentro de um Sistema de Gerenciamento de Banco de Dados (SGBD). Isso inclui a definição de tabelas, índices, chaves primárias e estrangeiras, restrições de integridade, tipos de dados detalhados e otimizações de desempenho. O objetivo da modelagem física é garantir que o banco de dados seja eficiente, seguro e capaz de atender aos requisitos de armazenamento e recuperação de dados da aplicação de forma adequada.
 Nesse contexto, um dos diagrmas mais relevantes é o Diagrama EER (Diagrama Entidade-Relacionamento Estendido).
 
-### 2.4. Importância do Diagrama EER
+### 2.3.1. Importância do Diagrama EER
 
 O Diagrama EER é crucial no desenvolvimento de bancos de dados porque, dentre outros aspectos relevantes:
 
@@ -55,14 +55,14 @@ Em resumo, o Diagrama EER é essencial para a modelagem de dados eficiente e pre
   <img src="Imagens/3_1_Modelagem_Fisica_EER_HepatoHub-1.png" alt="Modelagem Física">
 </p>
 
-## 2.5. Dicionário de Dados
+## 2.4. Dicionário de Dados
 
 Um Dicionário de Dados é fundamental na gestão e desenvolvimento de sistemas de informação, pois ele atua como um guia completo e estruturado que define todos os elementos de dados utilizados no contexto de um projeto. A importância reside em sua capacidade de oferecer uma fonte única de verdade sobre a estrutura, definição, significado e relacionamentos dos dados dentro de um sistema. Isso facilita a comunicação entre os membros da equipe técnica e os stakeholders, assegura a consistência e precisão dos dados ao longo do ciclo de vida do sistema, e contribui para a manutenção, evolução e documentação eficazes do sistema de informação.
 
 Para acessar o Dicionário de Dados completo, [clique aqui](Documentos/Dicionario_de_Dados_HepatoHub_22_06_2024.pdf).
 
 
-## 2.6. Banco de Dados implementado
+## 2.5. Banco de Dados implementado
 A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando o MySQL WorkBench.
 
 <p align="center">
