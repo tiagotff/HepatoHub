@@ -40,7 +40,7 @@ Modelagem Lógica: Refere-se à representação estruturada e detalhada de um ba
 ## 2.3. Modelagem Física
 
 A modelagem física em bancos de dados é o processo de traduzir o modelo lógico de dados em estruturas físicas específicas dentro de um Sistema de Gerenciamento de Banco de Dados (SGBD). Isso inclui a definição de tabelas, índices, chaves primárias e estrangeiras, restrições de integridade, tipos de dados detalhados e otimizações de desempenho. O objetivo da modelagem física é garantir que o banco de dados seja eficiente, seguro e capaz de atender aos requisitos de armazenamento e recuperação de dados da aplicação de forma adequada.
-Nesse contexto, um dos diagrmas mais relevantes é o Diagrama EER (Diagrama Entidade-Relacionamento Estendido).
+Nesse contexto, um dos diagramas mais relevantes é o Diagrama EER (Diagrama Entidade-Relacionamento Estendido).
 
 ### 2.3.1. Importância do Diagrama EER
 
