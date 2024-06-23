@@ -21,7 +21,7 @@ Na modelagem conceitual de banco de dados, o foco está na representação abstr
 ## 2.2. Normalização e Modelagem Lógica
 
 Uma normalização minimamente recomendada é a 3ª Forma Normal. Vejamos as condições para atendimento da 1ª, 2ª e 3ª Forma Normal:
-ª Forma Normal (1FN): É uma condição na qual os dados de uma tabela de banco de dados estão organizados em colunas com tipos de dados definidos, e cada coluna contém apenas valores atômicos (indivisíveis). Isso significa que não deve haver conjuntos repetitivos de valores ou estruturas complexas em uma única coluna.
+1ª Forma Normal (1FN): É uma condição na qual os dados de uma tabela de banco de dados estão organizados em colunas com tipos de dados definidos, e cada coluna contém apenas valores atômicos (indivisíveis). Isso significa que não deve haver conjuntos repetitivos de valores ou estruturas complexas em uma única coluna.
 
 2ª Forma Normal (2FN): Uma tabela está na 2ª Forma Normal quando atende às exigências da 1ª Forma Normal e, além disso, todos os atributos não chave são totalmente dependentes da chave primária. Isso significa que nenhum atributo deve depender apenas de uma parte da chave primária, mas sim da chave inteira.
 
