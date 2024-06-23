@@ -29,6 +29,7 @@ Uma normalização minimamente recomendada é a 3ª Forma Normal. Vejamos as con
 3ª Forma Normal (3FN): Uma tabela está na 3ª Forma Normal se estiver na 2ª Forma Normal e todos os atributos não chave são transitivamente dependentes apenas da chave primária. Em outras palavras, não deve haver dependências transitivas não triviais entre os atributos não chave.
 
 Feito isso, avança-se para a Modelagem Lógica.
+
 Modelagem Lógica: Refere-se à representação estruturada e detalhada de um banco de dados, utilizando modelos de dados que especificam como os dados são armazenados e organizados. A modelagem lógica envolve a tradução da modelagem conceitual (como o Modelo Entidade-Relacionamento) em um modelo de dados específico do sistema de gerenciamento de banco de dados (SGBD), como esquemas de tabelas normalizados, tipos de dados, relacionamentos e restrições.
 
 <p align="center">
