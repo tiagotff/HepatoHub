@@ -64,11 +64,11 @@ Em resumo, o Diagrama EER é essencial para a modelagem de dados eficiente e pre
 
 Um Dicionário de Dados é fundamental na gestão e desenvolvimento de sistemas de informação, pois ele atua como um guia completo e estruturado que define todos os elementos de dados utilizados no contexto de um projeto. A importância reside em sua capacidade de oferecer uma fonte única de verdade sobre a estrutura, definição, significado e relacionamentos dos dados dentro de um sistema. Isso facilita a comunicação entre os membros da equipe técnica e os stakeholders, assegura a consistência e precisão dos dados ao longo do ciclo de vida do sistema, e contribui para a manutenção, evolução e documentação eficazes do sistema de informação.
 
-Para acessar o Dicionário de Dados completo, [clique aqui](Documentos/Dicionario_de_Dados_HepatoHub_22_06_2024.pdf).
+Para acessar o Dicionário de Dados completo, [**clique aqui**](Documentos/Dicionario_de_Dados_HepatoHub_22_06_2024.pdf).
 
 
 ## 2.5. Banco de Dados implementado
-A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando o MySQL WorkBench.
+A seguir é exibida uma cópia de tela do Banco de Dados implementado utilizando o MySQL WorkBench. Se você deseja intalá-lo em sua máquina, [**neste link**](https://www.youtube.com/watch?v=s0YoPLbox40) você encontra um ótimo tutotial, passo a passo.
 
 <p align="center">
   <img src="Imagens/3_5_Modelagem_Fisica_Banco_de_Dados_Implementado-1.png" alt="Banco de Dados implementado">
